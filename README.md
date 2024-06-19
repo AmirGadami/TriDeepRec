@@ -1,6 +1,6 @@
 # TriDeepRec Model
 
-## This Github is still going through the updating phase  
+## This Repository is still going through the updating phase  
 
 ## Overview
 TriDeepRec is an innovative deep learning-based recommendation system designed to leverage the strengths of three neural network architectures. This approach aims to enhance prediction accuracy and tackle common recommender system challenges such as the cold start problem and data sparsity.
