@@ -21,10 +21,10 @@ To run the TriDeepRec model, you need the following:
 
 ## Clone this repository and install the required dependencies:
 ```bash
-git clone https://github.com/yourGitHub/TriDeepRec.git
+git clone https://github.com/AmirGadami/TriDeepRec.git
 cd TriDeepRec
 pip install -r requirements.txt
 
 
-For questions or support, please email ah.ghadami75@gmail.com.
+For questions or support, please email aghad051@gmail.com
 
